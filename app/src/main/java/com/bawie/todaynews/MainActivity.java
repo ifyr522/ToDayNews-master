@@ -13,6 +13,10 @@ import com.bwei.slidingmenu.app.SlidingFragmentActivity;
  * 1.类的作用：主页面
  */
 public class MainActivity extends SlidingFragmentActivity {
+
+    /**
+     * 1.类的作用：主页面
+     */
     private SlidingMenu slidingMenu;
     @Override
     public void onCreate(Bundle savedInstanceState) {
